@@ -1,0 +1,7 @@
+fully ap compliant sound sharing
+visualizer using native elements
+- good-tunes, but with splines
+- customizability
+limited friction
+native
+easy self-hosting
